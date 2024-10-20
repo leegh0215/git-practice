@@ -1,0 +1,33 @@
+# OS 관련 파일들
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+build/
+dist/
+
+# Java
+target/
+*.jar
+*.war
+
+# IDE 설정 파일
+.vscode/
+.idea/
+
+# 환경 파일
+.env
+
+# 백업 및 압축 파일
+*.zip
+*.tar.gz
+*.bak
